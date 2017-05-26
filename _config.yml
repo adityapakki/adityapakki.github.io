@@ -6,15 +6,15 @@ desc: >
   Welcome to the homepage of Aditya Pakki. This site contains links to 
   who I am and what I do.
 
-url: http://jackal.com      # put your website hosting url here
+url: https://adityapakki.github.io/     # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
+email: adityapakki@gmail.com
+author: Aditya Pakki
+twitter_username: amthunderbird
+github_username: adityapakki
 github_source: jackal
 
 # Put your ga tracking code below
