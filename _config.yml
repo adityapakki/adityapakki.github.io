@@ -27,18 +27,18 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: About
-    url: /about/
-    desc: Learn about me
+  - title: Research
+    url: /research/
+    desc: My research is about
   - title: Work
     url: /work/
-    desc: Stuffs I hate to do
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
-  - title: Articles
-    url: /articles/
-    desc: Stuffs I write about
+    desc: Professional Experience
+  - title: Curriculum Vitae
+    url: /resume/
+    desc: My resume
+  - title: Contact
+    url: /contact/
+    desc: Contact information
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
