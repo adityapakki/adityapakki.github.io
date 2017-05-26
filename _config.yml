@@ -1,11 +1,10 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Jackal               # used for the html title of every page
+title: Aditya Pakki               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the homepage of Aditya Pakki. This site contains links to 
+  who I am and what I do.
 
 url: http://jackal.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
@@ -29,18 +28,18 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Articles
-    url: /articles/
-    desc: Stuffs I write about
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
   - title: About
     url: /about/
     desc: Learn about me
+  - title: Work
+    url: /work/
+    desc: Stuffs I hate to do
+  - title: Projects
+    url: /projects/
+    desc: Stuffs I like to do
+  - title: Articles
+    url: /articles/
+    desc: Stuffs I write about
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
