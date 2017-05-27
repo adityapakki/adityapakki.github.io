@@ -13,10 +13,10 @@ I'll be starting my Ph.D. in Computer Science at the University of Minnesota, Tw
 </p>
 
 <p>
-I've a Masters degree in Computer Science from University of Utah, <a href ="https://www.cs.utah.edu">[School of Computing]</a> in the summer 
-of 2016. I was advised by <a href = "http://sci.utah.edu/people/mb.html">Prof. Martin Berzins</a> , during my time at the 
-<a href = "https://sci.utah.edu">Scientific Computing and Imaging Institute </a> in the <a href="utah.edu">University of Utah]</a>. 
-Earlier, I got my Bachelors degree in Information Technology at <a href = "http://jntuh.ac.in/">Jawaharlal Nehru Technological University]</a>, Hyderabad, India where I was mentored by Prof. P Gopalakrishna.
+I've a Masters degree in Computer Science from University of Utah, <a href ="https://www.cs.utah.edu" target="_blank">School of Computing</a> in the summer 
+of 2016. I was advised by <a href = "http://sci.utah.edu/people/mb.html" target="_blank">Prof. Martin Berzins</a> , during my time at the 
+<a href = "https://sci.utah.edu" target="_blank">Scientific Computing and Imaging Institute </a> in the <a href="utah.edu" target="_blank">University of Utah </a>. 
+Earlier, I got my Bachelors degree in Information Technology at <a href = "http://jntuh.ac.in/" target="_blank">Jawaharlal Nehru Technological University</a>, Hyderabad, India where I was mentored by Prof. P Gopalakrishna.
 
 </p>
 

@@ -16,6 +16,8 @@ author: Aditya Pakki
 twitter_username: amthunderbird
 facebook_username: aditya.pakk1 #username
 github_username: adityapakki
+linkedin_username: aditya-pakki-265a9525
+quora_username: Aditya-Pakki-1
 
 # Put your ga tracking code below
 google_analytics: 'UA-100013141-1'
@@ -37,7 +39,7 @@ navigation:
   - title: Research
     url: /research/
     desc: My research interests
-  - title: Experience
+  - title: Employment
     url: /experience/
     desc: Professional Experience
   - title: Contact

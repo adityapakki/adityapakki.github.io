@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Research Experience.
+subtitle: Research Interests.
 desc: Side projects.
 permalink: /research/
 ---
