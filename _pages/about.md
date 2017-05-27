@@ -7,8 +7,10 @@ permalink: /about/
 
 <div class="pretty-links">
 </div>
+<p>
 Hi, My name is Aditya and I'm currently a summer intern at Los Alamos National Laboratory, New Mexico in the Data Science at Scale summer school. 
 I'll be starting my Ph.D. in Computer Science at the University of Minnesota, Twin Cities from Fall 2017.
+</p>
 <p>
 I've a Masters degree in Computer Science from University of Utah, [School of Computing] (www.cs.utah.edu) in the summer 
 of 2016. I was advised by [Prof. Martin Berzins] (http://sci.utah.edu/people/mb.html), during my time at the [Scientific Computing and Imaging Institute] (sci.utah.edu) in the [University of Utah] (utah.edu). 
