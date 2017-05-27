@@ -1,10 +1,14 @@
 ---
 layout: page
 title: Research
-subtitle: Side projects are fun.
-desc: Side projects are fun.
+subtitle: Research Experience.
+desc: Side projects.
 permalink: /research/
 ---
+
+<p>
+My research interests broadly lie in the area of High Performance Computing(HPC) and Computer Systems. I'm fascinated by the efforts in the field of HPC to build an Exascale machine by 2022, within the power and energy constraints. I also have a keen research interest in the area of Numerical Analysis and computer systems.
+</p>
 
 <p>Lorem markdownum liquidas. Ad qui saxo prodis una, dextra medicamina fremit voce, Iuppiter, sum morte, et. Est hos est vultum ocius dextra praetulit aequoris hominem.</p>
 
