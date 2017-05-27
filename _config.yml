@@ -18,7 +18,7 @@ facebook_username: aditya.pakk1 #username
 github_username: adityapakki
 
 # Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-100013141-1'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
@@ -31,15 +31,18 @@ navigation:
   - title: Home
     url: /about/
     desc: Welcome to my home page
+  - title: Resume
+    url: /resume/
+    desc: What I did in life
   - title: Research
     url: /research/
     desc: My research interests
   - title: Experience
     url: /experience/
     desc: Professional Experience
-  - title: C.V. & Contact
-    url: /resume/
-    desc: My resume
+  - title: Contact
+    url: /contact/
+    desc: Contcting me
   - title: Personal
     url: /articles/
     desc: Miscellaneous Details
