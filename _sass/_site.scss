@@ -106,6 +106,10 @@
 // SITE FOOTER ====================================
 
 .site-footer {
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
   margin: 4rem 0 6rem;
   padding-top: $spacer1;
   font-family: $font-heading;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: About me - Aditya Pakki
+subtitle: About me
 permalink: /about/
 ---
 
