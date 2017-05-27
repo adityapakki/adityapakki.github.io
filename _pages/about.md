@@ -18,9 +18,6 @@ of 2016. I was advised by <a href = "http://sci.utah.edu/people/mb.html">Prof. M
 <a href = "https://sci.utah.edu">Scientific Computing and Imaging Institute </a> in the <a href="utah.edu">University of Utah]</a>. 
 Earlier, I got my Bachelors degree in Information Technology at <a href = "http://jntuh.ac.in/">Jawaharlal Nehru Technological University]</a>, Hyderabad, India where I was mentored by Prof. P Gopalakrishna.
 
-<figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.jpg">
-</figure>
 </p>
 
 </div>
