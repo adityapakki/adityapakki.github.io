@@ -18,6 +18,11 @@ of 2016. I was advised by [Prof. Martin Berzins] (http://sci.utah.edu/people/mb.
 Earlier, I got my Bachelors degree in Information Technology at [Jawaharlal Nehru Technological University] (http://jntuh.ac.in/), Hyderabad, India where I was mentored by Prof. P Gopalakrishna.
 
 My research interests broadly lie in the area of High Performance Computing(HPC) and Computer Systems. I'm fascinated by the efforts in the field of HPC to build an Exascale machine by 2022, within the power and energy constraints. I also have a keen research interest in the area of Numerical Analysis and computer systems.
+{::nomarkdown} 
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/profile.jpg">
+</figure>
+{:/}
 
 </div>
 
