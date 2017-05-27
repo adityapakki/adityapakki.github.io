@@ -16,7 +16,7 @@ My research interests broadly lie in the area of High Performance Computing(HPC)
   <img src="{{ site.baseurl }}/assets/img/pdf.png" style="width:24px;height:24px;">
   </a> </li>
 
-  <li>Project report done as part of M.S requirements at University of Utah
+  <li>Project report done as part of M.S degree requirement at University of Utah. 
   <a href="{{ site.baseurl }}/assets/files/report.pdf" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/pdf.png" style="width:24px;height:24px;">
   </a> </li>
