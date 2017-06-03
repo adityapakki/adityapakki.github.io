@@ -73,4 +73,5 @@ exclude:
   - vendor
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 
