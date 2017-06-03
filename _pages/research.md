@@ -13,12 +13,12 @@ My research interests broadly lie in the area of High Performance Computing(HPC)
 <ol>
   <li>B. Peterson, N. Xiao, J. Holmen, S. Chaganti, A. Pakki, J. Schmidt, D. Sunderland, A. Humphrey, M. Berzins. “Developing Uintah’s Runtime System For Forthcoming Architectures,” Subtitled “Refereed paper presented at the RESPA 15 Workshop at SuperComputing 2015 Austin Texas,” SCI Institute, 2015.
   <a href="{{ site.baseurl }}/assets/files/respa15.pdf" target="_blank">
-  <img src="{{ site.baseurl }}/assets/img/pdf.png" style="width:24px;height:24px;">
+  <img src="{{ site.baseurl }}/assets/img/pdf.png" class="pdf-image">
   </a> </li>
 
   <li>Project report done as part of M.S degree requirement at University of Utah. 
   <a href="{{ site.baseurl }}/assets/files/report.pdf" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/pdf.png" style="width:24px;height:24px;">
+    <img src="{{ site.baseurl }}/assets/img/pdf.png" class="pdf-image">
   </a> </li>
 </ol>
 
