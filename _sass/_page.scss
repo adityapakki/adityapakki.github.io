@@ -173,8 +173,8 @@ p.post-desc {
 
 .site-profile {
   float: right;
-  width: 96px;
-  height: 144px;
+  max-width: 100%;
+  max-height:100%;
   margin: -.4rem 1rem 0 $spacer;
 }
 
