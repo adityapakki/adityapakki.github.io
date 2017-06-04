@@ -1,3 +1,7 @@
+#Home page of Aditya Pakki.
+
+The website was cloned from open source Jekyll themes. The credits and copyrights go to the below members.
+
 # Thanks
 Thanks to [Kactus](https://github.com/nickbalestra/kactus) and [jaicab]( https://github.com/jaicab/jaicab.github.io).
 
