@@ -32,19 +32,19 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 navigation:
   - title: Home
     url: /about/
-    desc: Welcome to my home page
+    desc: About me
   - title: Resume
     url: /resume/
-    desc: What I did in life
+    desc: In a nutshell
   - title: Research
     url: /research/
-    desc: My research interests
+    desc: Research Interests
   - title: Employment
     url: /experience/
     desc: Professional Experience
   - title: Contact
     url: /contact/
-    desc: Contacting me
+    desc: Reach out
   - title: Personal
     url: /articles/
     desc: Miscellaneous 

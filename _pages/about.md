@@ -8,8 +8,8 @@ permalink: /about/
 <div class="pretty-links">
 
 <p>
-Hi, My name is Aditya and I'm currently a summer intern at Los Alamos National Laboratory, New Mexico in the Data Science at Scale summer school. 
-I'll be starting my Ph.D. in Computer Science at the University of Minnesota, Twin Cities from Fall 2017.
+Hi there, My name is Aditya and I'm currently a summer intern at Los Alamos National Laboratory, New Mexico in the Data Science at Scale summer school. 
+I'll be starting my Ph.D. studies in Computer Science at the University of Minnesota, Twin Cities from Fall 2017.
 </p>
 
 <p>
