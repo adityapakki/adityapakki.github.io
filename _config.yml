@@ -16,7 +16,7 @@ author: Aditya Pakki
 twitter_username: amthunderbird
 facebook_username: aditya.pakki #username
 github_username: adityapakki
-linkedin_username: aditya-pakki-265a9525
+linkedin_username: aditya-pakki
 quora_username: Aditya-Pakki-1
 
 # Put your ga tracking code below
@@ -45,9 +45,6 @@ navigation:
   - title: Contact
     url: /contact/
     desc: Reach out
-  - title: Personal
-    url: /articles/
-    desc: Miscellaneous 
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
