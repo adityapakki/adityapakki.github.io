@@ -3,8 +3,8 @@
 # Site settings
 title: Aditya Pakki               # used for the html title of every page
 desc: >
-  Welcome to the homepage of Aditya Pakki. This site contains links to 
-  who I am and what I do.
+  Welcome to the homepage of Aditya Pakki. I'm a Ph.D. candidate in CS 
+  at the Univeristy of Minnesota.
 
 url: https://adityapakki.github.io/     # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
