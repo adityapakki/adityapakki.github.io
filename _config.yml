@@ -69,5 +69,5 @@ exclude:
   - README.md
   - vendor
 gems:
-  - jekyll-paginate
+  - jekyll-sitemap 
 
