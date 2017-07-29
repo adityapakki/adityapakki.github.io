@@ -68,7 +68,5 @@ include:
 exclude:
   - README.md
   - vendor
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
+plugins: [jekyll-seo-tag, jekyll-paginate]
 
