@@ -10,6 +10,7 @@
   {% else %}{{ site.title }}{% endif %}
   </title>
 
+  {% seo %}
   <!-- SEO metas -->
   <meta name="description" content="{% if page.desc %}{{ page.desc }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.desc }}{% endif %}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -23,5 +24,4 @@
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
-  {% seo %}
 </head>
