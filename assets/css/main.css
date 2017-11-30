@@ -740,6 +740,6 @@ p.post-desc {
 
 @media (min-width: 768px) {
   .site-profile {
-    width: 96px;
+    width: 128px;
     height: 144px;
     margin: -1.2rem 1rem 0 2rem; } }
